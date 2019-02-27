@@ -1,0 +1,2 @@
+# Activity_selection_Algorithm
+Greedy programming approach
